@@ -1,8 +1,8 @@
 # Saint-Venant
 
-=========================================================================
-A finite volume code to solve the Saint−Venant system in an open channel.
-=========================================================================
+
+## A finite volume code to solve the Saint−Venant system in an open channel.
+
   
 Copyright (C) 2013 Mathieu Besson
 This program is free software: you can redistribute
